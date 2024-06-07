@@ -18,6 +18,17 @@ and iii) to keep mathematical abstractions.
     whether you might say something wrong. See also [Contributing to Ferrite](@ref) for more
     details.
 
+!!! warning "Warning Test!"
+    Can this really update in real time?
+    See [Degrees of Freedom](@ref) for more information.
+    ```julia
+    julia> x = 3
+    3
+
+    julia> x + 7
+    10
+    ```
+
 ## How the documentation is organized
 
 This high level view of the documentation structure will help you find what you are looking

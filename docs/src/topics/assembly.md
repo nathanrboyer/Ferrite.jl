@@ -4,6 +4,10 @@ DocTestSetup = :(using Ferrite)
 
 # [Assembly](@id man-assembly)
 
+!!! info
+
+    Another admonition!
+
 When the local stiffness matrix and force vector have been calculated
 they should be assembled into the global stiffness matrix and the
 global force vector. This is just a matter of adding the local
